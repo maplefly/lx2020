@@ -1,0 +1,1 @@
+fatal: You have nothing to amend
