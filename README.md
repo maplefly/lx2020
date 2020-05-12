@@ -1,10 +1,17 @@
-#README
+# README
 
 本程序用于博电设备期间核查的设备参数比对。
 
 分别核查连接控制时序,充电阶段的关键参数
 
 
-##check_chargeAelec
+## check_chargeAelec
 
 用于核查充电阶段和电性能的关键参数
+
+里边涵盖两个阶段所有的参数，输出结果打开后需要转置。
+
+
+## check_selftest
+
+用于核查自检阶段
